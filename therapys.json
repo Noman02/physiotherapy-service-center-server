@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Neck Therapy",
+    "price": 40,
+    "picture": "https://classicrehabilitation.com/wp-content/uploads/2021/07/Neck-Therapy-Classic-Rehab_62_63.jpg",
+    "rating": "4.5",
+    "description": "When neck pain lingers or keeps recurring, the exact source or mechanism of pain can be difficult to identify. Even without a diagnosis, increasing the strength of the neck’s muscles may help them to better support the cervical spine and become more resistant to pain."
+  },
+  {
+    "name": "Backbone therepy",
+    "price": 29,
+    "picture": "https://media.istockphoto.com/id/1273930780/photo/scoliosis-spine-curve-anatomy-posture-correction-chiropractic-treatment-back-pain-relief.jpg?s=612x612&w=0&k=20&c=UudxPQKNiUUduL3a0ptHo4omdFvh0j6UBPpkhf6uYfw=",
+    "rating": "4.1",
+    "description": "Nothing reminds you of your age like an achy back. All of a sudden, even restful activities, such as sleeping or hanging out on your couch can feel uncomfortable. You’ve tried everything: more pillows, a new mattress, switching sleeping positions. So what do you do if, despite all these modifications, your back is still in pain?"
+  },
+
+  {
+    "name": "Lower back tehrapy",
+    "price": 26,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1sWWAGo3JZhd_iXwGmj8x2_2kxdbUxSYCKdF6Hpub0rP23VwlODCeJqQS5MCQtDwF7RI&usqp=CAU",
+    "rating": "4.9",
+    "description": "Often, the person's posture will continue to worsen, and their muscles will weaken even further. Physical therapy uses several exercises to help patients strengthen the muscles of their core and back, which can right their bad posture and reduce their lower back pain symptoms."
+  },
+  {
+    "name": "Arm therapy",
+    "price": 29,
+    "picture": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/75/2019/11/13142029/iStock-472626250.jpg",
+    "rating": "4.3",
+    "description": "By relieving stress, swelling, and pain, hand massage can help increase overall productivity as well as replenish energetic balance. Much like hand massages, arm massage therapy works deeps tissue relaxation. Arm massage greatly aids in healing the major joints of the arm, such as the shoulder and elbow"
+  },
+  {
+    "name": "Leg therapy",
+    "price": 37,
+    "picture": "https://img.freepik.com/premium-photo/front-view-professional-male-masseur-with-strong-hands-massaging-calf-muscles-lower-leg_482921-2780.jpg?w=2000",
+    "rating": "4.6",
+    "description": "If you are a runner or an athlete or you do your daily chores or nothing at all, you might once in a while feel the urge to stretch or press your legs. Therefore, we should all understand and appreciate the therapeutic benefits of physiotherapy. Physiotherapy is basically stretching or massaging the legs. But a leg massage at the spa is also not a bad idea"
+  },
+  {
+    "name": "Feet therapy",
+    "price": 37,
+    "picture": "https://bendtotalbodychiropractic.com/wp-content/uploads/2021/06/three-types-of-massage-for-your-feet.jpg",
+    "rating": "4.3",
+    "description": "Just like your neck, back, and shoulders, your feet can also benefit from a regular rubdown. Foot massage improves circulation, stimulates muscles, reduces tension, and often eases pain. It also gives you a chance to check out your feet so you can get a jump on treating blisters, bunions, corns, and toenail problems."
+  }
+]
