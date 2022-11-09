@@ -45,7 +45,7 @@ async function run() {
       res.send(service);
     });
 
-    //get review api with name
+    //get reviews api with name
     app.get("/reviews", async (req, res) => {
       let query = {};
       if (req.query.reviewName) {
@@ -58,7 +58,7 @@ async function run() {
       res.send(reviews);
     });
 
-    //get review api with email
+    // get reviews api with email
     app.get("/reviews", async (req, res) => {
       let query = {};
       if (req.query.email) {
