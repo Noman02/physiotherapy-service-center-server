@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Neck Therapy",
+    "price": "40",
+    "picture": "https://classicrehabilitation.com/wp-content/uploads/2021/07/Neck-Therapy-Classic-Rehab_62_63.jpg",
+    "rating": "3.1",
+    "description": "The Benefits of Neck Therapy To accelerate the healing process and reduce neck pain and swelling. To make the muscles more flexible and stronger. To stretch the muscles in the affected areas. To improve posture and other body mechanics that will in turn protect the neck and spine"
+  },
+  {
+    "name": "Arm Therapy",
+    "price": "50",
+    "picture": "https://demanddeborah.org/app/uploads/sites/2/2020/07/arm-1000x1000.jpg",
+    "rating": "2.4",
+    "description": "By relieving stress, swelling, and pain, hand massage can help increase overall productivity as well as replenish energetic balance. Much like hand massages, arm massage therapy works deeps tissue relaxation. Arm massage greatly aids in healing the major joints of the arm, such as the shoulder and elbow."
+  },
+  {
+    "name": "Backbone Therapy",
+    "price": "45",
+    "picture": "https://www.laspine.com/wp-content/uploads/2018/10/Physical-Therapy-After-Spine-Surgery.jpg",
+    "rating": "4.6",
+    "description": "Nothing reminds you of your age like an achy back. All of a sudden, even restful activities, such as sleeping or hanging out on your couch can feel uncomfortable. You’ve tried everything: more pillows, a new mattress, switching sleeping positions. So what do you do if, despite all these modifications, your back is still in pain?"
+  },
+  {
+    "name": "Hand Therapy",
+    "price": "23",
+    "picture": "https://www.summithealth.com/sites/default/files/2021-05/Hand%20Therapy.jpg",
+    "rating": "4.9",
+    "description": "Manage and reduce joint pain. Increase range of motion, function, dexterity, and strength. Desensitize nerves following injury or trauma. Provide education and training to adapt to daily activities and responsibilities."
+  },
+  {
+    "name": "Lower Back Therapy",
+    "price": "33",
+    "picture": "https://spinalandsportscare.com.au/wp-content/uploads/2018/01/lower-back-pain-treatment.jpg",
+    "rating": "3.6",
+    "description": "Often, the person's posture will continue to worsen, and their muscles will weaken even further. Physical therapy uses several exercises to help patients strengthen the muscles of their core and back, which can right their bad posture and reduce their lower back pain symptoms."
+  },
+  {
+    "name": "Leg Therapy",
+    "price": "66",
+    "picture": "https://img.freepik.com/premium-photo/front-view-professional-male-masseur-with-strong-hands-massaging-calf-muscles-lower-leg_482921-2780.jpg?w=2000",
+    "rating": "4.1",
+    "description": "If you are a runner or an athlete or you do your daily chores or nothing at all, you might once in a while feel the urge to stretch or press your legs. Therefore, we should all understand and appreciate the therapeutic benefits of physiotherapy. Physiotherapy is basically stretching or massaging the legs. But a leg massage at the spa is also not a bad idea!"
+  }
+]
